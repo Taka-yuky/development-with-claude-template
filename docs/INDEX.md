@@ -24,6 +24,7 @@ AIと人間が共通で使うドキュメントの入口です。
 - `docs/ARCHITECTURE.md` — システム境界・依存ルール・設計パターン
 - `docs/TECHNICAL_STACK.md` — 採用技術・バージョン
 - `docs/adr/` — 設計判断の記録（ADR）
+- `docs/diagrams/` — 図（ソースは `src/*.d2`、生成物は `svg/*.svg`）
 
 オプション（`docs/options/` から必要に応じて移動して利用）:
 
