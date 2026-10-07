@@ -31,8 +31,6 @@
 
 ## AIへのタスク依頼
 
-AIにタスクを依頼する場合は `docs/prompts/TASK_TEMPLATES.md` のフォーマットを使用する。
-
 依頼前に以下のドキュメントをAIに参照させること:
 
 - REQUIREMENTS.md（何を作るか）

@@ -37,10 +37,9 @@ AIと人間が共通で使うドキュメントの入口です。
 - @./TEST_STRATEGY.md — テスト範囲・モック方針
 - @./SECURITY.md — 脅威モデル・認証認可・入力検証・シークレット管理
 
-## 4. AI Task Templates（AIへの依頼）
+## 4. Human Docs（人間向け）
 
-- @./prompts/TASK_TEMPLATES.md — タスク依頼フォーマット
-- @./prompts/REVIEW_CHECKLIST.md — PR/変更のレビューチェックリスト
+- `human/` — 人間が読むためのドキュメント置き場（例: オンボーディング、運用手順）。AIが常に参照する対象ではない
 
 ---
 
@@ -68,4 +67,3 @@ AIと人間が共通で使うドキュメントの入口です。
 ### PRをレビューしたい
 
 - QUALITY.md
-- prompts/REVIEW_CHECKLIST.md
