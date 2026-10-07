@@ -1,3 +1,13 @@
 .idea/
-.env*
+
+# 環境変数（.env.example はコミットする）
+.env
+.env.*
+!.env.example
+
+# 証明書・秘密鍵
+*.pem
+*.key
+
+# Claude Code の個人設定
 .claude/settings.local.json
